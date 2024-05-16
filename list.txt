@@ -1,0 +1,6 @@
+things to do:
+
+prs$actice java
+ practice git 
+
+practice command line
