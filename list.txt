@@ -4,3 +4,7 @@ prs$actice java
  practice git 
 
 practice command line
+
+new things from git hub
+do this things
+do more practice
